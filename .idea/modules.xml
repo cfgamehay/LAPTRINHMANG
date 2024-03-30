@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/B03/B03.iml" filepath="$PROJECT_DIR$/B03/B03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B04_XuLyFile/B04_XuLyFile.iml" filepath="$PROJECT_DIR$/B04_XuLyFile/B04_XuLyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B05_LuongDuLieu/B05_LuongDuLieu.iml" filepath="$PROJECT_DIR$/B05_LuongDuLieu/B05_LuongDuLieu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LAPTRINHMANG.iml" filepath="$PROJECT_DIR$/.idea/LAPTRINHMANG.iml" />
+    </modules>
+  </component>
+</project>
